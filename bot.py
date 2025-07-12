@@ -3,7 +3,7 @@ from discord.ext import commands
 import aiosqlite
 from datetime import datetime
 
-TOKEN = "MTM5MzQyMzU1MDEwNjMwODY2OQ.GK5iYU.Icy2HoQCrVkgWFqAP_rcVYyXdXRtWYEjhSKAgs"
+TOKEN = DISCORD_TOKEN
 LOG_CHANNEL_ID = 1393425901051707423  # ID лог-канала
 
 intents = discord.Intents.default()
